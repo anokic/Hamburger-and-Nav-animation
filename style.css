@@ -24,7 +24,8 @@ body {
   position: relative;
 }
 
-.logo h2 {
+.logo h1 {
+    color: #22cf5b;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -34,6 +35,7 @@ body {
   height: 4px;
   margin: 7px;
   background: rgb(40, 40, 40);
+  opacity: .9;
   transition: all .4s ease;
 }
 
