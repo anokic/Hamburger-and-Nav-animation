@@ -48,7 +48,7 @@ body {
 }
 
 .rotate {
-  transform: rotate(310deg);
+  transform: rotate(315deg);
 }
 
 .rotate:nth-child(2){
